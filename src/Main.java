@@ -37,16 +37,6 @@ public class Main {
         System.out.println("Значение переменной g с типом char равно " + g);
         boolean h = false;
         System.out.println("Значение переменной h с типом boolean равно " + h);
-
-        // byte aa = -128; // до 127
-        // short bb = -32768; // до 32767
-        // int cc = -2147483648; // до 2147483647
-        // long dd = -9223372036854775808L; // до 9223372036854775807
-        // float ee = 5.5f;
-        // double ff = 6.6;
-        // char gg = 7; // от 0 до 65536
-        // boolean hh = false;
-
         System.out.println("Переменные всех типов инициализированы");
         System.out.println();
 
