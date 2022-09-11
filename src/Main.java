@@ -143,6 +143,7 @@ public class Main {
         System.out.println("Денис теперь получает " + (int)(denisSalary * 0.1) + " рублей. Годовой доход вырос на " + (int)(denisSalaryYear * 0.1) + " рублей");
         System.out.println("Кристина теперь получает " + (int)(cristinaSalary * 0.1) + " рублей. Годовой доход вырос на " + (int)(cristinaSalaryYear * 0.1) + " рублей");
         System.out.println();
+        System.out.println("Все задания выполнены");
 
     }
 }
